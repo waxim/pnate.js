@@ -1,0 +1,8 @@
+{
+  "name": "Pnate.js - Pagination Anywhere",
+  "version": "1.0.0",
+  "main": "pnate.min.js",
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}

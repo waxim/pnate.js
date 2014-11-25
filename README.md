@@ -31,6 +31,14 @@ jQuery('.pagination .previous').click(function(){
 
 ```
 
+## Development
+To make the .min js file use gulp
+```js
+npm install
+gulp minify
+```
+
+
 ## TODO
 - [] Add pages numbers
 - [] Move event deligation inside our class.
